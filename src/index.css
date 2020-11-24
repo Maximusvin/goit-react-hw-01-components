@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('./img/bg.png');
 }
 
 html {
@@ -56,4 +57,24 @@ h4,
 h5,
 h6 {
   margin: 0;
+}
+
+.id-1 {
+  background-color: rgb(95, 230, 248);
+}
+
+.id-2 {
+  background-color: rgb(191, 52, 255);
+}
+
+.id-3 {
+  background-color: rgb(255, 52, 69);
+}
+
+.id-4 {
+  background-color: rgb(52, 255, 177);
+}
+
+.id-5 {
+  background-color: rgb(230, 164, 78);
 }
